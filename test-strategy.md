@@ -15,12 +15,11 @@ Le périmètre de test couvre les parcours critiques de l'application de command
 
 ## 2. Hors périmètre
 
-- tests de charge et de montée en charge ;
 - tests de sécurité avancés (pentest, injection SQL, XSS, CSRF) ;
 - tests multi-navigateur exhaustifs ;
 - tests de disponibilité réseau ou de reprise après panne ;
 - validation du design graphique purement esthétique ;
-- tests utilisateur avec un grand panel de profils (hors partie 6 du brief).
+- tests utilisateur avec un grand panel de profils.
 
 ## 3. Parcours critiques
 
